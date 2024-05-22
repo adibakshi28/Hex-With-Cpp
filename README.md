@@ -9,10 +9,20 @@ This repository contains an implementation of the Hex game using C++. The game o
 - **Two-Player Mode:** Allows two human players to compete against each other.
 - **AI Mode:** Offers a challenging AI opponent for solo play.
 
-## Prerequisites
+## Visuals
 
-- A C++ compiler (e.g., g++, clang++)
-- Basic knowledge of command-line operations
+Below are some images demonstrating the game interface and gameplay:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="Pictures/1.png" alt="Game Screenshot 1" style="width: 48%;">
+  <img src="Pictures/2.png" alt="Game Screenshot 2" style="width: 48%;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="Pictures/3.png" alt="Game Screenshot 3" style="width: 32%;">
+  <img src="Pictures/4.png" alt="Game Screenshot 4" style="width: 32%;">
+  <img src="Pictures/5.png" alt="Game Screenshot 5" style="width: 32%;">
+</div>
 
 ## Installation
 
@@ -61,21 +71,6 @@ This repository contains an implementation of the Hex game using C++. The game o
 - **Game Logic:** Contains functions to handle player moves, check for win conditions, and switch turns.
 - **AI Implementation:** Implements an AI opponent using strategic decision-making to challenge the player.
 - **User Interface:** Handles input and output for players, displaying the board and messages.
-
-## Visuals
-
-Below are some images demonstrating the game interface and gameplay:
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="Pictures/1.png" alt="Game Screenshot 1" style="width: 32%;">
-  <img src="Pictures/2.png" alt="Game Screenshot 2" style="width: 32%;">
-  <img src="Pictures/3.png" alt="Game Screenshot 3" style="width: 32%;">
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="Pictures/4.png" alt="Game Screenshot 4" style="width: 48%;">
-  <img src="Pictures/5.png" alt="Game Screenshot 5" style="width: 48%;">
-</div>
 
 ## License
 
